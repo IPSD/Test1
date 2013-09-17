@@ -1,0 +1,6 @@
+C:\Users\Murat\Desktop\Github_\herp\aesrdtgyhi\bin\Debug\aesrdtgyhi.exe.config
+C:\Users\Murat\Desktop\Github_\herp\aesrdtgyhi\bin\Debug\aesrdtgyhi.exe
+C:\Users\Murat\Desktop\Github_\herp\aesrdtgyhi\bin\Debug\aesrdtgyhi.pdb
+C:\Users\Murat\Desktop\Github_\herp\aesrdtgyhi\obj\Debug\aesrdtgyhi.csprojResolveAssemblyReference.cache
+C:\Users\Murat\Desktop\Github_\herp\aesrdtgyhi\obj\Debug\aesrdtgyhi.exe
+C:\Users\Murat\Desktop\Github_\herp\aesrdtgyhi\obj\Debug\aesrdtgyhi.pdb
